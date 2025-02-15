@@ -3907,3 +3907,16 @@ https://www.zerodayinitiative.com/blog/2023/4/21/tp-link-wan-side-vulnerability-
 https://nvd.nist.gov/vuln/detail/CVE-2024-3400
 https://www.microsoft.com/en-us/security/blog/2020/03/23/latest-astaroth-living-off-the-land-attacks-are-even-more-invisible-but-not-less-observable/
 https://web.archive.org/web/20221019044836/https://nsudo.m2team.org/en-us/
+https://admx.help/?Category=Windows_10_2016&Policy=Microsoft.Policies.InternetExplorer::IZ_IncludeUnspecifiedLocalSites
+https://www.proofpoint.com/us/blog/threat-insight/serpent-no-swiping-new-backdoor-targets-french-entities-unique-attack-chain
+https://www.tarasco.org/security/pwdump_7/
+https://developer.broadcom.com/xapis/esxcli-command-reference/7.0.0/namespace/esxcli_vsan.html
+https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/Start-Process?view=powershell-5.1&viewFallbackFrom=powershell-7
+https://developer.apple.com/library/archive/documentation/MacOSX/Conceptual/BPSystemStartup/Chapters/StartupItems.html
+https://bazaar.abuse.ch/sample/8c75f8e94486f5bbf461505823f5779f328c5b37f1387c18791e0c21f3fdd576/
+https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4771
+https://labs.nettitude.com/blog/introducing-sharpwsus/
+https://github.com/pr0xylife/Pikabot/blob/main/Pikabot_22.12.2023.txt
+https://learn.microsoft.com/en-us/entra/id-protection/concept-identity-protection-risks#atypical-travel
+https://web.archive.org/web/20230929023836/http://powershellhelp.space/commands/set-netfirewallrule-psv5.php
+https://web.archive.org/web/20211001064856/https://github.com/snovvcrash/DInjector
