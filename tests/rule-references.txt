@@ -3907,3 +3907,13 @@ https://www.zerodayinitiative.com/blog/2023/4/21/tp-link-wan-side-vulnerability-
 https://nvd.nist.gov/vuln/detail/CVE-2024-3400
 https://www.microsoft.com/en-us/security/blog/2020/03/23/latest-astaroth-living-off-the-land-attacks-are-even-more-invisible-but-not-less-observable/
 https://web.archive.org/web/20221019044836/https://nsudo.m2team.org/en-us/
+https://us-cert.cisa.gov/ncas/alerts/aa21-259a
+https://redcanary.com/blog/msix-installers/
+https://learn.microsoft.com/en-us/troubleshoot/windows-client/installing-updates-features-roles/system-registry-no-backed-up-regback-folder
+https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/new-pssession?view=powershell-7.4
+https://linux.die.net/man/1/arecord
+https://gist.github.com/travisbgreen/82b68bac499edbe0b17dcbfa0c5c71b7
+https://medium.com/r3d-buck3t/red-teaming-in-cloud-leverage-azure-frontdoor-cdn-for-c2-redirectors-79dd9ca98178
+https://www.gradenegger.eu/en/details-of-the-event-with-id-53-of-the-source-microsoft-windows-certificationauthority/
+https://thedfirreport.com/2024/09/30/nitrogen-campaign-drops-sliver-and-ends-with-blackcat-ransomware/
+https://www.cve.org/CVERecord?id=CVE-2024-1709
